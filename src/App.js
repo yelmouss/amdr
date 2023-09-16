@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         Site web d'AMDR fondation en cours de construction
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://yelmouss.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          yelmouss
         </a>
       </header>
     </div>
